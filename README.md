@@ -1,1 +1,1 @@
-# S6-L6-main
+# netflix homepage , settings page , account page
